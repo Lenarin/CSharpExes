@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\bin\Debug\netcoreapp3.1\Ex1_Strategy.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\bin\Debug\netcoreapp3.1\Ex1_Strategy.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\bin\Debug\netcoreapp3.1\Ex1_Strategy.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\bin\Debug\netcoreapp3.1\Ex1_Strategy.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\bin\Debug\netcoreapp3.1\Ex1_Strategy.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\bin\Debug\netcoreapp3.1\Ex1_Strategy.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\obj\Debug\netcoreapp3.1\Ex1_Strategy.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\obj\Debug\netcoreapp3.1\Ex1_Strategy.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\obj\Debug\netcoreapp3.1\Ex1_Strategy.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\obj\Debug\netcoreapp3.1\Ex1_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\obj\Debug\netcoreapp3.1\Ex1_Strategy.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\obj\Debug\netcoreapp3.1\Ex1_Strategy.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex1_Strategy\obj\Debug\netcoreapp3.1\Ex1_Strategy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\bin\Debug\netcoreapp3.1\Ex4_SimpleFactory.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\bin\Debug\netcoreapp3.1\Ex4_SimpleFactory.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\bin\Debug\netcoreapp3.1\Ex4_SimpleFactory.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\bin\Debug\netcoreapp3.1\Ex4_SimpleFactory.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\bin\Debug\netcoreapp3.1\Ex4_SimpleFactory.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\bin\Debug\netcoreapp3.1\Ex4_SimpleFactory.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\obj\Debug\netcoreapp3.1\Ex4_SimpleFactory.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\obj\Debug\netcoreapp3.1\Ex4_SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\obj\Debug\netcoreapp3.1\Ex4_SimpleFactory.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\obj\Debug\netcoreapp3.1\Ex4_SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\obj\Debug\netcoreapp3.1\Ex4_SimpleFactory.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\obj\Debug\netcoreapp3.1\Ex4_SimpleFactory.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex4_SimpleFactory\obj\Debug\netcoreapp3.1\Ex4_SimpleFactory.genruntimeconfig.cache

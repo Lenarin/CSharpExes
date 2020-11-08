@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\bin\Debug\netcoreapp3.1\Ex3_Decorator.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\bin\Debug\netcoreapp3.1\Ex3_Decorator.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\bin\Debug\netcoreapp3.1\Ex3_Decorator.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\bin\Debug\netcoreapp3.1\Ex3_Decorator.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\bin\Debug\netcoreapp3.1\Ex3_Decorator.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\bin\Debug\netcoreapp3.1\Ex3_Decorator.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\obj\Debug\netcoreapp3.1\Ex3_Decorator.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\obj\Debug\netcoreapp3.1\Ex3_Decorator.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\obj\Debug\netcoreapp3.1\Ex3_Decorator.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\obj\Debug\netcoreapp3.1\Ex3_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\obj\Debug\netcoreapp3.1\Ex3_Decorator.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\obj\Debug\netcoreapp3.1\Ex3_Decorator.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex3_Decorator\obj\Debug\netcoreapp3.1\Ex3_Decorator.genruntimeconfig.cache

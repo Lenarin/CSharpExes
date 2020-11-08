@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\bin\Debug\netcoreapp3.1\Ex2_Observer.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\bin\Debug\netcoreapp3.1\Ex2_Observer.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\bin\Debug\netcoreapp3.1\Ex2_Observer.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\bin\Debug\netcoreapp3.1\Ex2_Observer.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\bin\Debug\netcoreapp3.1\Ex2_Observer.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\bin\Debug\netcoreapp3.1\Ex2_Observer.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\obj\Debug\netcoreapp3.1\Ex2_Observer.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\obj\Debug\netcoreapp3.1\Ex2_Observer.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\obj\Debug\netcoreapp3.1\Ex2_Observer.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\obj\Debug\netcoreapp3.1\Ex2_Observer.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\obj\Debug\netcoreapp3.1\Ex2_Observer.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\obj\Debug\netcoreapp3.1\Ex2_Observer.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex2_Observer\obj\Debug\netcoreapp3.1\Ex2_Observer.genruntimeconfig.cache
