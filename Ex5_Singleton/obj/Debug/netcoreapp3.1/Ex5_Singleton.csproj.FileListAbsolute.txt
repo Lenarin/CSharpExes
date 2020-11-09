@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\bin\Debug\netcoreapp3.1\Ex5_Singleton.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\bin\Debug\netcoreapp3.1\Ex5_Singleton.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\bin\Debug\netcoreapp3.1\Ex5_Singleton.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\bin\Debug\netcoreapp3.1\Ex5_Singleton.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\bin\Debug\netcoreapp3.1\Ex5_Singleton.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\bin\Debug\netcoreapp3.1\Ex5_Singleton.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\obj\Debug\netcoreapp3.1\Ex5_Singleton.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\obj\Debug\netcoreapp3.1\Ex5_Singleton.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\obj\Debug\netcoreapp3.1\Ex5_Singleton.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\obj\Debug\netcoreapp3.1\Ex5_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\obj\Debug\netcoreapp3.1\Ex5_Singleton.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\obj\Debug\netcoreapp3.1\Ex5_Singleton.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex5_Singleton\obj\Debug\netcoreapp3.1\Ex5_Singleton.genruntimeconfig.cache

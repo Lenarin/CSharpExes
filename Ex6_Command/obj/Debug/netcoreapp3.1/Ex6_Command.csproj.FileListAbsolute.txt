@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\bin\Debug\netcoreapp3.1\Ex6_Command.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\bin\Debug\netcoreapp3.1\Ex6_Command.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\bin\Debug\netcoreapp3.1\Ex6_Command.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\bin\Debug\netcoreapp3.1\Ex6_Command.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\bin\Debug\netcoreapp3.1\Ex6_Command.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\bin\Debug\netcoreapp3.1\Ex6_Command.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\obj\Debug\netcoreapp3.1\Ex6_Command.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\obj\Debug\netcoreapp3.1\Ex6_Command.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\obj\Debug\netcoreapp3.1\Ex6_Command.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\obj\Debug\netcoreapp3.1\Ex6_Command.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\obj\Debug\netcoreapp3.1\Ex6_Command.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\obj\Debug\netcoreapp3.1\Ex6_Command.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex6_Command\obj\Debug\netcoreapp3.1\Ex6_Command.genruntimeconfig.cache

@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3_Decorator", "Ex3_Decora
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4_SimpleFactory", "Ex4_SimpleFactory\Ex4_SimpleFactory.csproj", "{04199093-7AED-48A1-9171-2EFFB5E2B7ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5_Singleton", "Ex5_Singleton\Ex5_Singleton.csproj", "{40557F44-3317-4502-8480-5D619B46A618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6_Command", "Ex6_Command\Ex6_Command.csproj", "{101E6B45-AAD9-43E2-8E7B-04F0EA14921E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{04199093-7AED-48A1-9171-2EFFB5E2B7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04199093-7AED-48A1-9171-2EFFB5E2B7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04199093-7AED-48A1-9171-2EFFB5E2B7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40557F44-3317-4502-8480-5D619B46A618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40557F44-3317-4502-8480-5D619B46A618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40557F44-3317-4502-8480-5D619B46A618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40557F44-3317-4502-8480-5D619B46A618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101E6B45-AAD9-43E2-8E7B-04F0EA14921E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101E6B45-AAD9-43E2-8E7B-04F0EA14921E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101E6B45-AAD9-43E2-8E7B-04F0EA14921E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101E6B45-AAD9-43E2-8E7B-04F0EA14921E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
