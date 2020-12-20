@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\bin\Debug\netcoreapp3.1\Ex8_Facade.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\bin\Debug\netcoreapp3.1\Ex8_Facade.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\bin\Debug\netcoreapp3.1\Ex8_Facade.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\bin\Debug\netcoreapp3.1\Ex8_Facade.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\bin\Debug\netcoreapp3.1\Ex8_Facade.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\bin\Debug\netcoreapp3.1\Ex8_Facade.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\obj\Debug\netcoreapp3.1\Ex8_Facade.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\obj\Debug\netcoreapp3.1\Ex8_Facade.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\obj\Debug\netcoreapp3.1\Ex8_Facade.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\obj\Debug\netcoreapp3.1\Ex8_Facade.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\obj\Debug\netcoreapp3.1\Ex8_Facade.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\obj\Debug\netcoreapp3.1\Ex8_Facade.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex8_Facade\obj\Debug\netcoreapp3.1\Ex8_Facade.genruntimeconfig.cache

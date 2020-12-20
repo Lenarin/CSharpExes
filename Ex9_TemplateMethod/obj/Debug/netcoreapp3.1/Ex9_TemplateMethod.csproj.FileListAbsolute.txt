@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\bin\Debug\netcoreapp3.1\Ex9_TemplateMethod.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\bin\Debug\netcoreapp3.1\Ex9_TemplateMethod.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\bin\Debug\netcoreapp3.1\Ex9_TemplateMethod.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\bin\Debug\netcoreapp3.1\Ex9_TemplateMethod.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\bin\Debug\netcoreapp3.1\Ex9_TemplateMethod.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\bin\Debug\netcoreapp3.1\Ex9_TemplateMethod.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\obj\Debug\netcoreapp3.1\Ex9_TemplateMethod.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\obj\Debug\netcoreapp3.1\Ex9_TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\obj\Debug\netcoreapp3.1\Ex9_TemplateMethod.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\obj\Debug\netcoreapp3.1\Ex9_TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\obj\Debug\netcoreapp3.1\Ex9_TemplateMethod.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\obj\Debug\netcoreapp3.1\Ex9_TemplateMethod.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex9_TemplateMethod\obj\Debug\netcoreapp3.1\Ex9_TemplateMethod.genruntimeconfig.cache

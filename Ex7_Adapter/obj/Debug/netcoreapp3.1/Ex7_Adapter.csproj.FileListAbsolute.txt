@@ -1,0 +1,13 @@
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\bin\Debug\netcoreapp3.1\Ex7_Adapter.exe
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\bin\Debug\netcoreapp3.1\Ex7_Adapter.deps.json
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\bin\Debug\netcoreapp3.1\Ex7_Adapter.runtimeconfig.json
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\bin\Debug\netcoreapp3.1\Ex7_Adapter.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\bin\Debug\netcoreapp3.1\Ex7_Adapter.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\bin\Debug\netcoreapp3.1\Ex7_Adapter.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\obj\Debug\netcoreapp3.1\Ex7_Adapter.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\obj\Debug\netcoreapp3.1\Ex7_Adapter.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\obj\Debug\netcoreapp3.1\Ex7_Adapter.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\obj\Debug\netcoreapp3.1\Ex7_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\obj\Debug\netcoreapp3.1\Ex7_Adapter.dll
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\obj\Debug\netcoreapp3.1\Ex7_Adapter.pdb
+C:\Users\user\RiderProjects\PatternsEx\Ex7_Adapter\obj\Debug\netcoreapp3.1\Ex7_Adapter.genruntimeconfig.cache
